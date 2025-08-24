@@ -1,0 +1,8 @@
+{
+  "name": "appwithvcpkg",
+  "version-string": "1.0.0",
+  "description": "Demonstrate vcpkg integration in Visual Studio 2022",
+  "dependencies": [
+    "abseil"
+  ]
+}
