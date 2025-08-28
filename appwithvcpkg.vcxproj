@@ -135,6 +135,6 @@
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
   <ImportGroup>
-    <Import Project="..\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets" />
+    <Import Project="vcpkg\scripts\buildsystems\msbuild\vcpkg.targets" />
   </ImportGroup>
 </Project>
